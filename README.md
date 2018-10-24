@@ -8,4 +8,4 @@ Dalej parę zdań też się znalazło.<br>
 I jeszcze jedna linijka tekstu.
 </p>
 
- <img src="apica.jpg" alt="Girl with flowers"> 
+ <img src="aga1_picasso.jpg" alt="Girl with flowers"> 
