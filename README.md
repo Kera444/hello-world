@@ -7,3 +7,5 @@ This is my hello-world project in GitHub
 Dalej parę zdań też się znalazło.<br>
 I jeszcze jedna linijka tekstu.
 </p>
+
+ <img src="aga1_picasso.jpg" alt="Girl with flowers"> 
