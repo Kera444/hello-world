@@ -9,3 +9,8 @@ I jeszcze jedna linijka tekstu.
 </p>
 
  <img src="aga1_picasso.jpg" alt="Girl with flowers"> 
+
+<p>
+ A ja to moge modyfikować.
+</p>
+ 
